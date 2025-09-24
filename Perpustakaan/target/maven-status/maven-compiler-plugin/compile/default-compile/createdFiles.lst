@@ -1,0 +1,5 @@
+models\Mahasiswa.class
+models\BukuPelajaran.class
+models\BisaDinilai.class
+com\mycompany\perpustakaan\Perpustakaan.class
+models\Buku.class
